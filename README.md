@@ -189,5 +189,6 @@ python analysis.py
 
 ## Author
 
-Ranjitha K
+**Ranjitha K**
+
 Data Analytics Project showcasing end-to-end analytics using Python, SQL, Power BI, and business reporting.
