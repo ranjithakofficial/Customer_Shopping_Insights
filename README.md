@@ -114,7 +114,10 @@ Built an interactive Power BI dashboard featuring:
 * Subscription Conversion Rate
 * Top-Selling Products
 * Revenue by Category
-  
+
+## Dashboard Preview
+
+![Dashboard Overview](Dashboard_Overview.png) 
 
 ## Results & Insights
 
